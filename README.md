@@ -8,4 +8,5 @@
 
 an artistic reinterpretation and learning experience based on the popular https://github.com/morgosus/fit-boy 
 maybe one day i'll put this on the fitbit app store, until then, build instructions inside courtesy of mourgosus 
-
+could use:
+battery life optimization.
