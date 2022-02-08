@@ -1,5 +1,9 @@
-# fit-boy.MICRO
+# voidGazer (aka fit-boy.MICRO)
 ![Works_With_Fitbit_Watches_badge_No_Reg](https://user-images.githubusercontent.com/13801315/152666723-7b1f2c0e-7516-4906-ad69-ab23b92c9baf.png)
+
+currently pending approval by fitbit. 
+https://gallery.fitbit.com/details/a7d7a0b3-d954-4eea-a36a-6afd432e93b9
+# private link
 
 # A Clock face application
 
