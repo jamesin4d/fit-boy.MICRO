@@ -14,3 +14,4 @@ an artistic reinterpretation and learning experience based on the popular https:
 maybe one day i'll put this on the fitbit app store, until then, build instructions inside courtesy of mourgosus 
 could use:
 battery life optimization.
+https://gallery.fitbit.com/details/a7d7a0b3-d954-4eea-a36a-6afd432e93b9
